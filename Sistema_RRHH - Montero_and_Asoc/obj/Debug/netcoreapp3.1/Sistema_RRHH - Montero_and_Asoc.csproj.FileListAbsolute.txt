@@ -1,0 +1,28 @@
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.exe
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.deps.json
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.runtimeconfig.json
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.runtimeconfig.dev.json
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.pdb
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.AssemblyInfo.cs
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.csproj.CoreCompileInputs.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.pdb
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.genruntimeconfig.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\SpreadsheetLight.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Debug\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.csproj.CopyComplete
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Gremlin.Net.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\bin\Debug\netcoreapp3.1\System.Text.Json.dll

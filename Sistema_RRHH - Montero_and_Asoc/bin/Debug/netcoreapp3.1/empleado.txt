@@ -1,0 +1,6 @@
+Nombre: Angel Montero
+Cedula:  000-1111111-0
+Cargo : Gerente 
+Departamento :  Gerencia General 
+Salario: 170000 
+

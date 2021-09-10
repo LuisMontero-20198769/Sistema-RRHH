@@ -1,0 +1,4 @@
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Release\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.csproj.AssemblyReference.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Release\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.AssemblyInfoInputs.cache
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Release\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.AssemblyInfo.cs
+C:\Users\Edward Montero\Desktop\App C#\Sistema_RRHH - Montero_and_Asoc\Sistema_RRHH - Montero_and_Asoc\obj\Release\netcoreapp3.1\Sistema_RRHH - Montero_and_Asoc.csproj.CoreCompileInputs.cache
